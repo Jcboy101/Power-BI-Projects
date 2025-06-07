@@ -1,4 +1,4 @@
-# 🧾 Loan Performance Dashboard
+# 1. 🧾 Loan Performance Dashboard
 
 This Power BI dashboard provides a comprehensive view of loan distribution, repayment behavior, and risk exposure across different customer segments. It is designed to help financial institutions—particularly microfinance banks and digital lenders—monitor performance, detect repayment trends, and identify risky borrower profiles.
 
@@ -103,6 +103,80 @@ These insights would guide risk modeling, customer targeting, and collection str
 2. Open the `.pbix` file in Power BI Desktop
 3. Replace the data source with your own loan dataset
 4. Adjust filters, visuals, or DAX logic as needed
+
+---
+
+---
+
+
+
+# 2. 📦 Supply Chain Analysis Dashboard – Power BI Project
+
+This Power BI dashboard provides a comprehensive analysis of supply chain performance using key metrics across procurement, inventory, logistics, and supplier performance. Designed for strategic decision-making, the report supports supply chain managers in identifying inefficiencies, optimizing inventory levels, and improving vendor relationships.
+
+## 🧩 Problem Statement
+
+Managing a supply chain involves balancing cost, speed, and reliability. Organizations often struggle to track real-time supplier performance, inventory turnover, and order cycle efficiency. This dashboard aims to provide a centralized, interactive view of critical metrics to support evidence-based supply chain decisions.
+
+## 📊 Dashboard Features
+
+- **KPIs Overview**:
+  - Total Purchase Orders
+  - Average Delivery Time
+  - On-Time Delivery %
+  - Inventory Turnover Ratio
+  - Cost Per Unit
+
+- **Procurement Trends**:
+  - Monthly purchase order volume
+  - Year-over-year supplier cost analysis
+
+- **Inventory Analysis**:
+  - Inventory aging distribution
+  - Overstock and understock alerts
+
+- **Supplier Performance**:
+  - On-time delivery rate by vendor
+  - Defect rate and return frequency
+
+- **Logistics and Lead Time**:
+  - Average lead times per product category
+  - Regional delivery performance
+
+## 🔍 Key Insights
+
+- 🔻 **Low On-Time Delivery Rates** from specific vendors highlight the need for renegotiation or new supplier sourcing.
+- ⏱️ **Long Lead Times** on high-priority SKUs contribute to frequent out-of-stock situations.
+- 📈 **High Inventory Holding Costs** are driven by excess stock of low-demand items.
+- 🚚 **Delivery Time Variance** increases with shipments from certain regions, indicating potential logistic bottlenecks.
+
+  ![Screenshot 2025-06-06 081158](https://github.com/user-attachments/assets/a3ce245e-43b8-4dce-bdd8-5145d70145b8)
+
+
+## ✅ Business Impact
+
+- Improved vendor accountability through performance tracking
+- Reduced inventory holding costs by identifying slow-moving items
+- Minimized stockouts with proactive lead time monitoring
+- Better procurement planning based on historical trend analysis
+
+## 🛠 Tools & Technologies
+
+- **Power BI Desktop**
+- **DAX** for measures and KPI calculations
+- **Power Query** for data shaping
+- **Excel/CSV** as data source (can be extended to SQL or ERP systems)
+
+## 📂 File Structure
+
+- `Supply Chain Analysis Dashboard.pbix`: Power BI project file
+- `README.md`: Documentation (you’re reading it)
+
+## 🔄 Extensibility Ideas
+
+- Integrate real-time data feeds (e.g., ERP system APIs)
+- Add predictive analytics for lead time forecasting
+- Create supplier scorecards with benchmarks and alerts
 
 ---
 
