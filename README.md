@@ -87,10 +87,12 @@ From the demo data used, the following insights were drawn:
 
 These insights would guide risk modeling, customer targeting, and collection strategies.
 
+![Screenshot 2025-06-07 115728](https://github.com/user-attachments/assets/cf2d3f68-002d-4a99-a346-523158cacf0a)
+
 ---
 
 ## 📁 File Included
-[loan report dashboard.pbix]("C:\Users\user11\OneDrive\Documents\Dashboards Project\Dashboards\loan report dashboard.pbix"): The Power BI file (open with Power BI Desktop)
+[loan report dashboard.pbix](https://github.com/Jcboy101/Power-BI-Projects/edit/main/loan%20report%20dashboard.pbix): The Power BI file (open with Power BI Desktop)
 
 
 ---
